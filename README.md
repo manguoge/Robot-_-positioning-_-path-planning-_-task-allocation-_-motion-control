@@ -3,4 +3,4 @@
 
    ### you need run the code in arduino mega2560 or leonardo ,and the task allocation code int the your server.
     
-   ### open the arduino code by the [IDE](https://www.arduino.cc/en/Main/Software). 
+   ### open the arduino code by the [Arduino IDE](https://www.arduino.cc/en/Main/Software). 
